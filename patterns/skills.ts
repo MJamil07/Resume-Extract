@@ -155,4 +155,4 @@ const itSkills = [
   ];
 
 
-  module.exports = itSkills;
+  export default  itSkills;

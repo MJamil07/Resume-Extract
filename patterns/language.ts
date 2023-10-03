@@ -17,4 +17,4 @@ const languageSkills = [
       { name: "Hindi", regex: /\b(?:Hindi)\b.{50,}/gi },
   ];
 
-  module.exports = languageSkills;
+ export default languageSkills

@@ -61,4 +61,4 @@ const itPositions = [
       { name: "IT Trainer", regex: /(?:IT\s+Trainer)/gi },
   ];
 
-module.exports = itPositions
+export default itPositions
